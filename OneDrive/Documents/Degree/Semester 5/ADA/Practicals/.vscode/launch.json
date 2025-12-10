@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pr12_asu_RabinKarp",
+            "request": "launch",
+            "mainClass": "pr12_asu_RabinKarp",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr11_asu_CoinChangeDP",
+            "request": "launch",
+            "mainClass": "pr11_asu_CoinChangeDP",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr10_asu_MatrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "pr10_asu_MatrixChainMultiplication",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr9_asu_knapsack_dynamic",
+            "request": "launch",
+            "mainClass": "pr9_asu_knapsack_dynamic",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr8_man",
+            "request": "launch",
+            "mainClass": "pr8_man",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr7",
+            "request": "launch",
+            "mainClass": "pr7",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr6_asu_makingchange",
+            "request": "launch",
+            "mainClass": "pr6_asu_makingchange",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr5_asu",
+            "request": "launch",
+            "mainClass": "pr5_asu",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr5_man",
+            "request": "launch",
+            "mainClass": "pr5_man",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "GreedyCoinChange",
+            "request": "launch",
+            "mainClass": "GreedyCoinChange",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalMinimal",
+            "request": "launch",
+            "mainClass": "KruskalMinimal",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalAlgorithmBasic",
+            "request": "launch",
+            "mainClass": "KruskalAlgorithmBasic",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr8",
+            "request": "launch",
+            "mainClass": "pr8",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr4",
+            "request": "launch",
+            "mainClass": "pr4",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "pr5",
+            "request": "launch",
+            "mainClass": "pr5",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "greedyMakingChange",
+            "request": "launch",
+            "mainClass": "greedyMakingChange",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KnapsackSolver",
+            "request": "launch",
+            "mainClass": "KnapsackSolver",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack_problem",
+            "request": "launch",
+            "mainClass": "Knapsack_problem",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "FractionalKnapsack",
+            "request": "launch",
+            "mainClass": "FractionalKnapsack",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "item",
+            "request": "launch",
+            "mainClass": "item",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "PrimAlgorithmFromPseudo",
+            "request": "launch",
+            "mainClass": "PrimAlgorithmFromPseudo",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Prims",
+            "request": "launch",
+            "mainClass": "Prims",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalMST",
+            "request": "launch",
+            "mainClass": "KruskalMST",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Prim_al",
+            "request": "launch",
+            "mainClass": "Prim_al",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalMatrixRandom",
+            "request": "launch",
+            "mainClass": "KruskalMatrixRandom",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Kruskal_Algorithm",
+            "request": "launch",
+            "mainClass": "Kruskal_Algorithm",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Kruskal_Algo",
+            "request": "launch",
+            "mainClass": "Kruskal_Algo",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalMatix",
+            "request": "launch",
+            "mainClass": "KruskalMatix",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "KruskalAlgorithm",
+            "request": "launch",
+            "mainClass": "KruskalAlgorithm",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "PrimMST",
+            "request": "launch",
+            "mainClass": "PrimMST",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "PrimRandomGraph",
+            "request": "launch",
+            "mainClass": "PrimRandomGraph",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "MST",
+            "request": "launch",
+            "mainClass": "MST",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "matrix_padding",
+            "request": "launch",
+            "mainClass": "matrix_padding",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "MatrixPadding",
+            "request": "launch",
+            "mainClass": "MatrixPadding",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "matix_padding",
+            "request": "launch",
+            "mainClass": "matix_padding",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "demoo",
+            "request": "launch",
+            "mainClass": "demoo",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "StrassenWithRandom",
+            "request": "launch",
+            "mainClass": "StrassenWithRandom",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "mat",
+            "request": "launch",
+            "mainClass": "mat",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "mqsort",
+            "request": "launch",
+            "mainClass": "mqsort",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "murge_sort_only",
+            "request": "launch",
+            "mainClass": "murge_sort_only",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "normal_matrix",
+            "request": "launch",
+            "mainClass": "normal_matrix",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "searchh",
+            "request": "launch",
+            "mainClass": "searchh",
+            "projectName": "Practicals_4d5013d4"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "Practicals_4d5013d4"
+        }
+    ]
+}

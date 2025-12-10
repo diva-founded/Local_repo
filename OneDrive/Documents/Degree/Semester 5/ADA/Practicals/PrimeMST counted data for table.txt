@@ -1,0 +1,25 @@
+Adjancey matrixs:
+
+vertices :- 5
+edges :- 4
+
+starting vertices time if it is 
+0:-20.250299 ms
+1:-8.221701 ms
+2:-8.9426 ms
+3:-4.276301 ms
+4:-6.7881 ms
+
+
+vertices :- 6
+edges :- 10
+
+if starting index is :------------
+0:-16.247099 ms
+1:- 7.0338 ms
+2:-3.3691 ms
+3:-5.3125 ms
+4:-6.669299 ms
+5:-8.449599 ms
+
+
